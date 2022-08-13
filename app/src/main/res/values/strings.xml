@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">Dubai-Hotels</string>
+    <string name="damac_name">DAMAC  Distinction</string>
+    <string name="damac_text_map">في وسط المدينة</string>
+    <string name="damac_details">غرفة ديلوكس مع إطلالة </string>
+    <string name="damac_price">SAR 474</string>
+    <string name="damac_url">https://www.damachotelsandresorts.com</string>
+    <string name="novotelc_name">Novotel Bur Dubai</string>
+    <string name="novotelc_text_map">بر دبي . ٦ كلم من المركز</string>
+    <string name="novotelc_details">غرفة سوبيريور توأم</string>
+    <string name="novotelc_price">SAR 250</string>
+    <string name="novotelc_url">https://www.novotelburdubai.com</string>
+    <string name="carawan_name">كروان بلازا دبي</string>
+    <string name="carawan_text_map">منطقة المركز التجاري </string>
+    <string name="carawan_details">غرفة فندقية:الأسرة:واحد مزدوج</string>
+    <string name="carawan_price">SAR 550</string>
+    <string name="carawan_url">https://www.crowneplaza.com/</string>
+    <string name="radison_name">فندق راديسون بلو </string>
+    <string name="radison_text_map">١٩ كلم من المركز</string>
+    <string name="radison_details">غرفة سوبيريور مع إطلالة </string>
+    <string name="radison_price">SAR 200</string>
+    <string name="radison_url">https://www.radissonhotels.com/</string>
+    <string name="name_tools_hotel">Braira Al Dammam</string>
+    <string name="tools_map_text">وسط المدينة</string>
+    <string name="tools_details_hotel">غرفة ديلوكس مع إطلالة على مركز المدينة</string>
+    <string name="tools_price">474 ريال سعودي</string>
+
 </resources>
